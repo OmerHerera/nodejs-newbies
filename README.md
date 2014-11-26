@@ -17,15 +17,20 @@ Lets start our journey together.
 _I promisse stay tunned, will be code._
 
 **Node.js**
+
 *Node.js is an open source, cross-platform runtime environment for server-side and networking applications. Node.js applications are written in JavaScript, and can be run within the Node.js runtime on OS X, Microsoft Windows, Linux and FreeBSD.*
 
 **npm**
+
 npm is a Node.js package manager. As its name would imply, you can use it to install node programs. Also, if you use it in development, it makes it easier to specify and link dependencies.
 
 **npm install**
+
 This command installs a package, and any packages that it depends on. If the package has a shrinkwrap file, the installation of dependencies will be driven by that.
 
-**npm-shrinkwrap**: You can control exactly which versions of each dependency 
+**npm-shrinkwrap**
+
+You can control exactly which versions of each dependency 
 will be used when your package is installed.
 See [npm-shrinkwrap](https://www.npmjs.org/doc/cli/npm-shrinkwrap.html) for more information.
 
