@@ -1,5 +1,7 @@
 Node.js for Newbies
 =================
+![Alt text](nodejsLogo.jpeg)
+
 ###**What is Node.js**
 Node.js is a event-driven programming, Javascript in server side. 
 What? Where? Event what? 
