@@ -3,7 +3,7 @@ Node.js for Newbies
 ![Alt text](nodejsLogo.jpeg)
 
 ###**What is Node.js**
-Node.js is a event-driven programming, Javascript in server side. 
+Node.js is an event-driven programming, Javascript in server side. 
 What? Where? Event what? 
 These where my first reactions when I start reading about Node.js and trying to learn about it.
 For all these questions I decided to write a small tutorial/post about Node.js for the web developers/ developers that want to start using Node.js and want a easy landing.
@@ -12,7 +12,7 @@ Why? You ask your selfs, the reason is that when I start learning/playing with N
 So if you want to start using Node.js, I hope I can help a little bit and give you some intro about it. 
 Lets start our journey together.
 
-####**Let's the terminology begging**
+####**Let's start with some terminology**
 
 _I promisse stay tunned, will be code._
 
@@ -36,7 +36,7 @@ See [npm-shrinkwrap](https://www.npmjs.org/doc/cli/npm-shrinkwrap.html) for more
 
 **package.json**
 This document is all you need to know about what's required in your package.json file. It must be actual JSON, not just a JavaScript object literal.
-You can read more about packge.json in [here.](https://www.npmjs.org/doc/files/package.json.html)
+You can read more about package.json in [here.](https://www.npmjs.org/doc/files/package.json.html)
 If you don't want to read all the documentation about it, read at least the section of the property 'name', it will save a lot of headaches, when writing new package.json files read [this.](https://www.npmjs.org/doc/files/package.json.html#name) 
 
 ###**Lets get our hands dirty**
